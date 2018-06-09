@@ -1,0 +1,54 @@
+#main{
+	   height:560px;
+	   width:960px;
+	   background:url("../img/index/login-img.png") no-repeat;
+	   margin:auto;
+	 }
+/*	 #main div.black{*/
+/*	   width:260px;*/
+/*	   height:280px;*/
+/*	   background-color:rgba(0,0,0,.1);*/
+/*	   margin-left:550px;*/
+/*	   margin-top:180px;*/
+/*	 }*/
+
+	 #main table{
+	   width:260px;
+	   height:280px;
+	   background-color:rgba(0,0,0,.1);
+	   margin-left:550px;
+	   margin-top:180px;
+	 }
+	 #main table td{
+	   color:#fff;
+	 }
+
+    #main table td a{
+	   color:#fff;
+	   text-decoration:none;
+	   font-size:12px;
+	 }
+   #main table td.sp{
+     font-size:12px;
+   }
+   #uname,#upwd,#btn{
+     width:100%;
+	 height:32px;
+	 border:0;
+	 outline:0;
+	 padding:0 50px 0 15px;
+	 box-sizing:border-box;
+	 margin-top:20px;
+   }
+/*   #uname,#upwd{*/
+/*     background:#fff url(register/yhm.png) no-repeat right center;*/
+/*   }*/
+/*   #upwd{*/
+/*     background-image:url(register/mm.png);*/
+/*   }*/
+   #btn{
+     background-image:linear-gradient(to bottom, #DEDEDE 100%);
+   }
+   table h4{
+     margin:0;
+   }

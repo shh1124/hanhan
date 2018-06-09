@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	 <link rel="stylesheet" href="css/base.css">
+	 <link rel="stylesheet" href="css/footer.css">
+</head>
+<body>
+		<div id="foot-box">
+			<div id="foot-list">
+				<ul>
+					<li><b>买家帮助</b></li>
+					<li><a href="">新手指南</a></li>
+					<li><a href="">服务保障</a></li>
+					<li><a href="">常见问题</a></li>
+				</ul>
+				<ul>
+					<li><b>商家帮助</b></li>
+					<li><a href="">商家入驻</a></li>
+					<li><a href="">联系我们</a></li>
+					<li><a href="">商家后台</a></li>
+				</ul>
+				<ul>
+					<li><b>关于我们</b></li>
+					<li><a href="">常见问题</a></li>
+					<li><a href="">联系我们</a></li>
+					<li><a href=""><img src="img/footer/wechat.png" alt=""><img src="img/footer/sinablog.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div id="right-int">
+						<p>客服电话</p>
+						<p>400-3567-4567</p>
+						<p>营业时间:9:00-21:00</p>
+						<p>地址:苏州园区创意产业园</p>
+						<p>关注WE CARE</p>
+						<p><img src="" alt=""><img src="" alt=""></p>
+						<p>本站声明：任何信息都不能替代执业医师面对面的诊断和治疗，本网站所载的各种信息和数据等仅供参考。</p>
+			</div>
+		</div>
+</body>
+</html>

@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/base.css">
+	 <link rel="stylesheet" href="css/product.css">
+</head>
+<body>
+	<div class="main">
+		<header id="header"></header>
+<!-- 		<div class="floor"> -->
+<!-- 		<span class="lf"><a href="">热卖推荐</a></span> -->
+<!-- 		<span class="rf"><a href="">更多&gt;&gt;</a></span> -->
+<!-- 		</div> -->
+		<div>
+		<a href="product_detail.html"><img src="img/product/banner3.png" alt="" class="jiaodian"></a>
+		</div>
+<!-- 		<!-- 标识容器 -->
+<!-- 		<div id="item-box"> -->
+<!-- 			 <ul class="item-list"> -->
+<!-- 				 <li class="item"> -->
+<!-- 						<a href="#" class="top-item" target="_blank"><img class="icon-menu menu-1" src="img/index/quanbu.jpg"></img> -->
+<!--               全部项目 -->
+<!-- 						</a> -->
+<!-- 							<!-- 弹出二级项目 --> 
+<!--              <div class="sub-box " style="display: none;"> -->
+<!--                   <div class="arrow"></div> -->
+<!-- 						</div> -->
+<!-- 						<li class="item"> -->
+<!-- 					 <a href="#" class="top-item" target="_blank"><img class="icon-menu menu-1" src="http://img2.soyoung.com/upload/20160421/2/20160421120231832.jpg"></img> -->
+<!-- 						玻尿酸 -->
+<!-- 						</a> -->
+<!--             <!-- 弹出二级项目 --> 
+<!--             <div class="sub-box " style="display: none;"> -->
+<!-- 							<div class="son"> -->
+<!--                 <div class="title"> -->
+<!--                  <a href="#">玻尿酸塑形</a> -->
+<!--                  </div> -->
+<!--                     <div class="content"> -->
+<!--                      <div class="col"> -->
+<!--                   <a href="#" target="_blank">玻尿酸丰卧蚕</a> -->
+<!-- 									<a href="#">玻尿酸隆鼻</a> -->
+<!-- 									<a href="#"	target="_blank">玻尿酸丰唇</a> -->
+<!--                   <a href="#" target="_blank">玻尿酸丰耳垂</a> -->
+<!--                   <a href="#" target="_blank">玻尿酸垫下巴</a> -->
+<!--                  </div> -->
+<!-- 									<div class="col"> -->
+<!--                       <a href="#"target="_blank">玻尿酸丰苹果肌</a> -->
+<!-- 											<a href="#" target="_blank">玻尿酸丰泪沟</a> -->
+<!--                       <a href="#" target="_blank">玻尿酸丰太阳穴</a> -->
+<!--                       <a href="#" target="_blank">玻尿酸丰眉弓</a> -->
+<!-- 											<a href="#" target="_blank">玻尿酸丰面颊</a> -->
+<!-- 									</div> -->
+<!-- 								 <div class="col"> -->
+<!--                       <a href="#">玻尿酸丰唇珠</a> -->
+<!-- 											<a href="#" target="_blank">玻尿酸丰额头</a> -->
+<!-- 											<a href="/yuehui/head?menu1=10020&menu2=20156&menu3=568" target="_blank">玻尿酸丰鼻基底</a> -->
+<!-- 											<a href="#" target="_blank">玻尿酸丰眼窝</a> -->
+<!--                       <a href="#" target="_blank">玻尿酸全脸填充</a> -->
+<!--                  </div> -->
+<!--                 </div> -->
+<!--                 </div> -->
+<!--                      <div class="son"> -->
+<!--                         <div class="title"> -->
+<!--                             <a href="#" -->
+<!--                                target="_blank">玻尿酸抗衰</a> -->
+<!--                         </div> -->
+<!--                    <div class="content"> -->
+<!--                      <div class="col"> -->
+<!--                       <a href="#"target="_blank">玻尿酸去黑眼圈</a> -->
+<!-- 											<a href="#"target="_blank">玻尿酸去法令纹</a> -->
+<!-- 											<a href="#"target="_blank">玻尿酸去颈纹</a> -->
+<!-- 											<a href="#"target="_blank">玻尿酸去静态纹</a> -->
+<!-- 											<a href="#"target="_blank">玻尿酸去面部细纹</a> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                  </div> -->
+<!--                     <div class="son"> -->
+<!--                       <div class="title"> -->
+<!--                         <a href="#"target="_blank">玻尿酸修复</a> -->
+<!--                       </div> -->
+<!-- 											<div class="content"> -->
+<!-- 										  <div class="col"> -->
+<!--                        <a href="#" target="_blank">溶解酶</a> -->
+<!-- 											 <a href="#" target="_blank">注射物取出</a> -->
+<!--                       </div> -->
+<!--                       </div> -->
+<!--                      </div> -->
+<!--                  <div class="arrow"></div> -->
+<!--                </div> -->
+<!--           </li> -->
+<!-- 				 </li> -->
+<!-- 				</ul> -->
+<!-- 						</div> -->
+		<div id="intro_list">
+			<ul>
+				<li><a href="#">美购精选</a></li>
+				<li><a href="#">全部项目</a></li>
+			</ul>
+		</div>
+		<p class="liebiao"><a href="">美购&gt;全部项目</a></p>
+<!-- 		<p> -->
+<!-- 			<span class="all1">项目</span> -->
+<!-- 			<span class="all2"><a href="">全部</a></span> -->
+			<ul class="list clear">
+				<li><a href="">玻尿酸</a></li>
+				<li><a href="">肉毒素</a></li>
+				<li><a href="">自体脂肪</a></li>
+				<li><a href="">眼部整形</a></li>
+				<li><a href="">鼻部整形</a></li>
+				<li><a href="">半永久妆</a></li>
+				<li><a href="">激光脱毛</a></li>
+				<li><a href="">唇部整形</a></li>
+				<li><a href="">皮肤美容</a></li>
+				<li><a href="">美体塑形</a></li>
+				<li><a href="">面部轮廓</a></li>
+				<li><a href="">胸部整形</a></li>
+				<li><a href="">毛发种植</a></li>
+				<li><a href="">牙齿美容</a></li>
+				<li><a href="">耳部整形</a></li>
+				<li><a href="">私密整形</a></li>
+				<li><a href="">其他</a></li>
+			</ul>
+<!-- 		</p> -->
+		<!-- 精选项目介绍 -->
+		<div  class="intr">
+			<span>精选项目推荐</span>
+		</div>
+<!-- 		<div class="caselist"> -->
+				<ul class="caselist">
+					<li><a href="">智能排序</a></li>
+					<li><a href="">销量排序</a></li>
+					<li><a href="">好评排序</a></li>
+					<li><a href="">案例排序</a></li>
+					<li><a href="">最新上架</a></li>
+				</ul>
+<!-- 			</div> -->
+		
+		<div class="big-flex clear">
+			<!--左边楼层弹性布局  -->
+			<div class="product-list lf clear">
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/meiyan.jpg" alt=""></a></div>
+					<div class="wenzi">                                                                                  
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <span class="jian"><a href="">-</a></span>
+							<input type="text" value="1" class="inp">
+						<a href=""><span class="jian">+</span></a>
+						<span class="car"><a href="">加入购物车</a></span>
+						</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/bi.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/shuiguang.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/shoulian1.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/xizhi.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/shuagnyanpi.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/longbi.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/meiyan.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/zhushe.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/meiyan.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/longbi.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+				<div class="list-img">
+					<div class="tu"><a href=""><img src="img/index/meiyan.jpg" alt=""></a></div>
+					<div class="wenzi">
+						<p class="title">@长沙医疗美容医院[线雕美容]</p>
+						<p class="price">￥6988.00</p>
+						<p>数量: <a href=""><span class="jian">-</span></a>
+							<input type="text" value="1" class="inp">
+							<a href=""><span class="jian">+</span></a>
+							<span class="car"><a href="">加入购物车</a></span>
+							</p>
+					</div>
+				</div>
+			</div>
+		<!-- 	右边公告	 -->
+			<div class="gonggao rf clear">
+				<p>名医咨询</p>
+			</div>
+		</div>
+		<!-- 页码 -->
+				<!-- <div id="pages">
+					<a href="" class="previous">上一页</a>
+					<a href="" class="current">1</a>
+					<a href="">2</a>
+					<a href="">3</a>
+					<a href="">4</a>
+					<a href="">5</a>
+					<a href="">下一页</a>
+				</div> -->
+		<!--  按销量等搜索-->
+		<ul class="case clear">
+			<li>商品</li>
+			<li>实例</li>
+		</ul>
+		<!-- 固定的二级标题 -->
+		<div  class="nav">
+			<div class="nav-li"><div class="tit">热销活动</div>
+				<ul>
+					<li>玻尿酸特价</li>
+					<li>玻尿酸特价</li>
+					<li>玻尿酸特价</li>
+				</ul>
+			</div>
+			<div class="nav-li">明星推荐
+				<ul>
+					<li>台湾镭射</li>
+					<li>玻尿酸特价</li>
+					<li>玻尿酸特价</li>
+				</ul>
+			</div>
+			<div class="nav-li">优惠分享
+				<ul>
+					<li>点我分享</li>
+					<li>玻尿酸特价</li>
+					<li>玻尿酸特价</li>
+				</ul>
+			</div>
+			<div class="nav-li">点我变美
+				<ul>
+					<li>美白秘籍</li>
+					<li>玻尿酸特价</li>
+					<li>玻尿酸特价</li>
+				</ul>
+			</div>
+		</div>
+		<footer id="footer"></footer>
+	</div>
+		<script src="js/jquery-1.11.3.js"></script>
+		<script src="js/header.js"></script>
+		<script src="js/footer.js"></script>
+<!-- 			<script src="js/index.js"></script> -->
+		<script src="js/ajax.js"></script>
+</body>
+</html>

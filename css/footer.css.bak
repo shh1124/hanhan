@@ -1,0 +1,24 @@
+#foot-box{
+	width:1200px;
+	height:150px;
+	background:#E0E0E0;
+}
+#foot-list{
+	width:500px;
+	display:flex;
+	float:left;
+	justify-content:space-around;
+}
+#right-int{
+	width:600px;
+	float:right;
+	margin-top:20px;
+}
+/*#foot-list ul:nth-child(2){*/
+/*	margin:0 200px;*/
+/*}*/
+#foot-list ul{
+	margin-top:30px;
+}
+
+

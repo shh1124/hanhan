@@ -1,0 +1,43 @@
+#foot-box{
+	width:100%;
+	height:150px;
+	background:#444444;
+}
+#foot-do{
+	display:flex;
+	width:1200px;
+	justify-content:space-around;
+	margin:0 auto;
+	height:150px;
+	
+}
+#foot-list{
+	width:300px;
+	display:flex;
+	float:left;
+	justify-content:space-between;
+}
+#center_img{
+	width:200px;
+	height:150px;
+}
+#center_img>img{
+	padding-top:16px;
+	margin-right:50px;
+	display:inline-block;
+}
+#right-int{
+	width:500px;
+	float:right;
+	margin-top:20px;
+	font-weight:bold;
+	margin-left:10px;
+}
+/*#foot-list ul:nth-child(2){*/
+/*	margin:0 200px;*/
+/*}*/
+#foot-list ul{
+	margin-top:30px;
+}
+
+

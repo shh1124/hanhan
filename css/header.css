@@ -1,0 +1,103 @@
+#header-top{
+	width:1200px;
+	height:70px;
+	margin:0 auto;
+}
+#bbb{
+	margin-bottom:30px;
+}
+/*输入框样式*/
+div .wenzi{
+	font-size:18px;
+}
+div.top_input{
+	height:35px;
+	width:400px;
+	border:1px solid ##4C87FF;
+	margin-left:80px;
+	margin-top:13px;
+}
+#center_input{
+	width:300px;
+	height:28px;
+	border:none;
+	outline:none;
+	padding-left:40px;
+	color:black;
+}
+input.right_search{
+	height:30px;
+	border:none;
+	color:#fff;
+	background:#DD4B40;
+}
+/*头部右侧li样式*/
+.list{
+    float:right;
+}
+.list li{
+    float:left;
+    line-height:20px;
+    padding:2px;
+}
+/*.enter li img{*/
+/*	vertical-align:middle;*/
+/*}*/
+/*导航*/
+.list-nav{
+	margin-left:5px;
+	margin-top:10px;
+	position:relative;
+}
+.nav-menu{
+	position:relative;
+	padding-left:70px;
+}
+.list-nav li{
+	float:left;
+/*	margin-right:40px;*/
+	font-size:16px;
+/*	font-weight:bold;*/
+	color:#ccc;
+}
+/*.list-nav li a:hover{*/
+/*	color:red;*/
+/*}*/
+#header_box{
+	border:1px solid pink;
+}
+.xgnav{ width:100%; height:60px; background-color:#EF9089;z-index:1000;}
+.n-header_box{ width:996px; height:60px; margin:0 auto; position:relative;z-index:999;}
+/*** nav ***/
+.nav-header{position:absolute;z-index:1;width:70px;line-height:60px;left:0px;}
+.nav-header a{font-size:16px;color:#ccc;}
+.nav-header a:hover{color:#fff;}
+
+.nav-wrap{position:relative;margin-left:70px;z-index:999; width:auto; height:60px; }
+.nav-wrap .list-nav{position:relative;height:60px;z-index:999; }
+.nav-wrap .nav-menu{float:left;padding:0 37px;background:url(/2015/nhead/n-sy_11.png) no-repeat left; line-height:60px;z-index:999;}
+.nav-wrap .nav-menu a{display:block;color:#eee;font-size:16px; text-align:center;}
+.nav-wrap .nav-menu a:hover{color:red;}
+/*.nav-wrap .mask{display:none;position:absolute;	width:140px;height:60px;background-color:red;}*/
+/*.nav-wrap:hover .mask{display:block;}*/
+
+.nav-menu:hover .nav_xl{
+	display:block;
+	transition:all .4s linear;
+}
+
+.nav_xl{display:none;position:absolute;z-index:999;-moz-border-radius:0px 0px 15px 15px; -webkit-border-radius:0px 0px 15px 15px; border-radius:0px 0px 15px 15px; width:976px; left:-72px;background-color:#fff; padding:20px 10px;}
+.nav_xl .dhxm{ padding-left:15px; border-left:#cccccc solid 1px; border-right:#cccccc solid 1px; width:585px; height:205px; float:left; overflow:hidden;}
+.nav_xl .dhxm p{text-align:left; line-height:18px; padding:5px 0px;}
+.nav_xl .dhxm a{color:#919191; text-decoration:none; line-height: 24px; font-size:14px; padding:0px 3px; white-space:nowrap; display: inline;}
+.nav_xl .dhxm a:hover{color:#00d2d9;} 
+.nav_xl .dhxm a.bt{border-right: 1px solid #adadad; color: #00d2d9; font-size: 14px; font-weight: bold; margin-right:5px; padding: 0 10px;}
+.nav_xl .dhxm a.bt:hover{color:#00d2d9;font-size:14px;}
+.nav_xl .rmhd{ padding-top:5px; float:right; }	
+.nav_xl .rmxm{ padding:10px 25px 0px; width:135px; float:left;}	
+.nav_xl .rmxm .rmtt{ border-bottom:#b8b8b8 solid 1px; font-size:16px; color:#000; text-align:left; line-height: 35px; margin-bottom:5px; }
+.nav_xl .rmxm p{ background:url(/2015/nhead/jt.png) left center no-repeat; padding-left:20px; text-align:left; line-height:25px; }
+.nav_xl .rmxm .more{ background:none; padding-top:5px;}
+.nav_xl .rmxm .more a{text-align:right; }
+.nav_xl .rmxm a{ font-size:14px; color:#989898; text-align:left; width:auto;}
+.nav_xl .rmxm a:hover{ font-size:14px; color:#00d2d9;}
